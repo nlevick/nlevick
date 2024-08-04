@@ -5,14 +5,14 @@ With a prismatic background in fine arts, screenwriting, and applied mathematics
 
 <h3>Technical Skills</h3>
 <ul>
-<li><b>Languages</b>: TypeScript, Python, R</li>
+<li><b>Languages</b>: Typescript, Python, R</li>
 <li><b>Frameworks & Libraries</b>: React, Next.js, GraphQL, d3, OpenSeadragon</li>
 <li><b>Tools</b>: Git, Neovim, Webpack, Adobe Create Suite, Storybook</li>
 </ul>
 
 <h3>Key Projects</h3>
 <ul>
-<li><a href="https://indicalab.com/clinical-products/halo-ap/"><b>HaloAP</b></a>: I spearheaded the frontend design and implmentation for this AI-powered, pathologist-driven diagnostic pathology web platform
+<li><a href="https://indicalab.com/clinical-products/halo-ap/"><b>HaloAP</b></a>: I spearheaded the frontend design and implementation for this AI-powered, pathologist-driven diagnostic pathology web platform
 <li><a href="https://nlevick.github.io/portfolio"><b>Portfolio</b></a>: A portfolo page written to explore Next.js and Tailwind
 </ul>
 
