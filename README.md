@@ -18,7 +18,7 @@ My focus is making powerful, data-heavy flows feel smooth for specialized users.
 <h3>Key Projects</h3>
 <ul>
 <li><a href="https://indicalab.com/clinical-products/halo-ap/"><b>HaloAP</b></a>: Led UI architecture and design for FDA 510(k)-cleared digital pathology platform serving hundreds of pathologists globally from MVP to production scale using React, TypeScript, and GraphQL
-<li><a href="https://nlevick.github.io/portfolio"><b>Portfolio</b></a>: Personal site exploring Next.js and Tailwind CSS
+<li><a href="https://nlevick.github.io/portfolio"><b>Portfolio</b></a>: Personal site exploring Next.js, Tailwind CSS, Github Projects
 </ul>
 
 <h3>What I'm Looking For</h3>
