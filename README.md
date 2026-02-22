@@ -12,12 +12,15 @@ React · TypeScript · D3.js · GraphQL/Apollo · Redux Toolkit · Vite · AG Gr
 
 <h3>Projects</h3>
 <ul>
+<li><a href="https://nlevick.github.io/stock-dashboard/"><b>Stock Dashboard</b></a> <em>(In progress)</em> — 
+Stock candlestick with OHLC data, volume subplot, and crosshair tooltip. React, TypeScript, D3. 
+  <!-- localStorage caching strategy and SVG/Canvas tradeoff documented in <a href="https://github.com/nlevick/stock-dashboard/blob/main/docs/ARCHITECTURE.md">ARCHITECTURE.md</a>.  -->
+</li>
 <li><a href="https://indicalab.com/clinical-products/halo-ap/"><b>HaloAP</b></a> — 
 FDA 510(k)-cleared digital pathology platform serving 300+ 
   clinicians globally. React, TypeScript, GraphQL, OpenSeadragon image viewer. Formative and 
   summative UX testing for regulatory clearance.
-<!-- <li><a href="https://nlevick.github.io/portfolio"><b>Data Visualization </b></a>: Personal site exploring Next.js, Tailwind CSS, Github Projects -->
-<li><a href="https://nlevick.github.io/portfolio"><b>Portfolio</b></a> — Personal site built to explore Next.js, Tailwind CSS, Github Projects.
+<li><a href="https://nlevick.github.io/portfolio"><b>Portfolio</b></a> — Personal site. Next.js, Tailwind CSS, Github Projects.
 </ul>
 
 <h3>Contact</h3>
