@@ -13,7 +13,7 @@ React · TypeScript · D3.js · GraphQL/Apollo · Redux Toolkit · Vite · AG Gr
 <h3>Projects</h3>
 <ul>
 <li><a href="https://nlevick.github.io/stock-dashboard/"><b>Stock Dashboard</b></a> <em>(In progress)</em> — 
-Stock candlestick with OHLC data, volume subplot, and crosshair tooltip. React, TypeScript, D3. 
+Stock ticker candlestick chart, volume subplot, and crosshair tooltip. React, TypeScript, D3. 
   <!-- localStorage caching strategy and SVG/Canvas tradeoff documented in <a href="https://github.com/nlevick/stock-dashboard/blob/main/docs/ARCHITECTURE.md">ARCHITECTURE.md</a>.  -->
 </li>
 <li><a href="https://indicalab.com/clinical-products/halo-ap/"><b>HaloAP</b></a> — 
