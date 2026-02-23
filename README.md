@@ -20,12 +20,14 @@ Stock ticker candlestick chart, volume subplot, and crosshair tooltip. React, Ty
 FDA 510(k)-cleared digital pathology platform serving 300+ 
   clinicians globally. React, TypeScript, GraphQL, OpenSeadragon image viewer. Formative and 
   summative UX testing for regulatory clearance.
-<li><a href="https://nlevick.github.io/portfolio"><b>Portfolio</b></a> — Personal site. Next.js, Tailwind CSS, Github Projects.
+  <li><a href="https://nlevick.github.io/portfolio"><b>Portfolio Site</b></a> — Personal site to explore Next.js 14 App Router architecture, Tailwind with a water 
+animation landing page. Project managed via 
+<a href="https://github.com/users/nlevick/projects/1/views/1">GitHub Projects</a>.</li>
 </ul>
 
 <h3>Contact</h3>
 <p>
-  Currently looking for senior frontend roles at companies building data-rich products (healthtech, analytics, fintech, or anywhere the interface is complex). Remote. Open to Denver-area hybrid.
+  Currently looking for senior frontend roles at companies building data-rich products (healthtech, analytics, fintech, or anywhere the interface is complex). Remote. Open to Denver hybrid.
 </p>
 Hit me up on <a href="https://linkedin.com/in/nathan-levick" target="_blank" rel="noreferrer">LinkedIn</a>.
 
