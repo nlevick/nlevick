@@ -19,7 +19,7 @@ Stock ticker candlestick chart, volume subplot, and crosshair tooltip. React, Ty
 <li><a href="https://indicalab.com/clinical-products/halo-ap/"><b>HaloAP</b></a> — 
 FDA 510(k)-cleared digital pathology platform serving 300+ 
   clinicians globally. React, TypeScript, GraphQL, OpenSeadragon image viewer. Formative and 
-  summative UX testing for regulatory clearance.
+  summative UX testing for regulatory clearance. <a href="https://github.com/nlevick/pathology-viewer-demo">Viewer demo</a>.
   <li><a href="https://nlevick.github.io/portfolio"><b>Portfolio Site</b></a> — Personal site to explore Next.js 14 App Router architecture, Tailwind with a water 
 animation landing page. Project managed via 
 <a href="https://github.com/users/nlevick/projects/1/views/1">GitHub Projects</a>.</li>
