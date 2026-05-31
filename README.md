@@ -1,5 +1,5 @@
 <h3>I'm Nathan 👋</h3>
-<p> A Frontend Engineer that builds intuitive, data-heavy interfaces for specialized users.</p>
+<p> A Frontend Engineer at the intersection of data, design, and UX that builds intuitive, data-heavy interfaces for specialized users.</p>
 
 <p>I bring an unconventional background to engineering: fine arts, applied mathematics, and even a stint in screenwriting. That combo gives me a different lens on the work, thinking in systems and in experiences.</p>
 
