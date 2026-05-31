@@ -14,7 +14,7 @@ React · TypeScript · CSS · D3.js · GraphQL/Apollo · Redux Toolkit · Vite �
 <ul>
 
 <li><a href="https://indicalab.com/clinical-products/halo-ap/"><b>HaloAP</b></a> — 
-FDA 510(k)-cleared digital pathology platform serving 300+ 
+FDA 510(k)-cleared digital pathology platform serving 1000+ 
   clinicians globally. React, TypeScript, GraphQL, OpenSeadragon image viewer. Formative and 
   summative UX testing for regulatory clearance. <a href="https://github.com/nlevick/pathology-viewer-demo">Viewer demo</a>.
 <li><a href="https://nlevick.github.io/stock-dashboard/"><b>Stock Dashboard</b></a> <em>(In progress)</em> — 
@@ -28,7 +28,7 @@ animation landing page. Project managed via
 
 <h3>Contact</h3>
 <p>
-  Currently looking for senior frontend roles at companies building data-rich products. Remote. Open to Denver hybrid.
+  Currently looking for roles at companies building data-rich products. Remote. Open to Denver hybrid.
 </p>
 Hit me up on <a href="https://linkedin.com/in/nathan-levick" target="_blank" rel="noreferrer">LinkedIn</a>.
 
