@@ -1,9 +1,9 @@
 <h3>I'm Nathan 👋</h3>
 <p> A Frontend Engineer at the intersection of data, design, and UX that builds intuitive, data-heavy interfaces for specialized users.</p>
 
-<p>I bring an unconventional background to engineering: fine arts, applied mathematics, and even a stint in screenwriting. That combo gives me a different lens on the work, thinking in systems and in experiences.</p>
+<p>I bring an unconventional background to engineering: fine arts, applied mathematics, and even a stint in screenwriting. That combo gives me a different lens to the work, thinking in systems and in experiences.</p>
 
-<p>For the past 6 years, I've been the lead frontend engineer on a digital pathology platform, taking 
+<p>For the past 8 years, I've been the lead frontend engineer on a digital pathology platform, taking 
 it from greenfield to an FDA 510(k)-cleared medical device. No design team: I owned the 
 architecture, UI design, UX testing, and the full frontend stack.</p>
 
@@ -13,8 +13,8 @@ React · TypeScript · CSS · D3.js · GraphQL/Apollo · Redux Toolkit · Vite �
 <h3>Projects</h3>
 <ul>
 
-<li><a href="https://indicalab.com/clinical-products/halo-ap/"><b>HaloAP</b></a> — 
-FDA 510(k)-cleared digital pathology platform serving 1000+ 
+<li><a href="https://indicalab.com/clinical-products/halo-ap-dx/"><b>HaloAP</b></a> — 
+FDA 510(k)-cleared digital pathology platform serving 1000s 
   clinicians globally. React, TypeScript, GraphQL, OpenSeadragon image viewer. Formative and 
   summative UX testing for regulatory clearance. <a href="https://github.com/nlevick/pathology-viewer-demo">Viewer demo</a>.
 <li><a href="https://nlevick.github.io/stock-dashboard/"><b>Stock Dashboard</b></a> <em>(In progress)</em> — 
@@ -28,7 +28,7 @@ animation landing page. Project managed via
 
 <h3>Contact</h3>
 <p>
-  Currently looking for roles at companies building data-rich products. Remote. Open to Denver hybrid.
+  Currently looking for roles at companies building data-rich products. Remote.
 </p>
 Hit me up on <a href="https://linkedin.com/in/nathan-levick" target="_blank" rel="noreferrer">LinkedIn</a>.
 
