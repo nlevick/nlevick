@@ -17,8 +17,8 @@ React · TypeScript · CSS · D3.js · GraphQL/Apollo · Redux Toolkit · Vite �
 FDA 510(k)-cleared digital pathology platform serving 1000s 
   clinicians globally. React, TypeScript, GraphQL, OpenSeadragon image viewer. Formative and 
   summative UX testing for regulatory clearance. <a href="https://github.com/nlevick/pathology-viewer-demo">Viewer demo</a>.
-<li><a href="https://nlevick.github.io/stock-dashboard/"><b>Stock Dashboard</b></a> <em>(In progress)</em> — 
-Stock ticker candlestick chart, volume subplot, and crosshair tooltip. React, TypeScript, D3. 
+<!-- <li><a href="https://nlevick.github.io/stock-dashboard/"><b>Stock Dashboard</b></a> <em>(In progress)</em> — 
+Stock ticker candlestick chart, volume subplot, and crosshair tooltip. React, TypeScript, D3.  -->
   <!-- localStorage caching strategy and SVG/Canvas tradeoff documented in <a href="https://github.com/nlevick/stock-dashboard/blob/main/docs/ARCHITECTURE.md">ARCHITECTURE.md</a>.  -->
 </li>
   <li><a href="https://nlevick.github.io/portfolio"><b>Portfolio Site</b></a> — Personal site to explore Next.js 14 App Router architecture, Tailwind with a water 
