@@ -14,17 +14,12 @@ React · TypeScript · CSS · D3.js · GraphQL/Apollo · Redux Toolkit · Vite �
 
 <li><a href="https://indicalab.com/clinical-products/halo-ap-dx/"><b>HaloAP</b></a> — 
 FDA 510(k)-cleared digital pathology platform serving clinicians at hundreds of sites globally. React, TypeScript, GraphQL, OpenSeadragon image viewer. Formative and 
-  summative UX testing for regulatory clearance. <a href="https://github.com/nlevick/pathology-viewer-demo">Viewer demo</a>.
+  summative UX testing for regulatory clearance. <a href="https://github.com/nlevick/pathology-viewer-demo">Demo</a>.
 <li><a href="https://nlevick.github.io/osd-deckgl-prototype/"><b>OpenSeadragon + deck.gl</b></a> — 
-  Deep-zoom image viewer with a GPU-accelerated overlay of up to 200,000 selectable annotation paths. The overlay stays aligned with the image as you pan, zoom, rotate, and flip. <a href="https://nlevick.github.io/osd-deckgl-prototype/">Viewer demo</a>.
+  Deep-zoom image viewer with a GPU-accelerated overlay of up to 200,000 selectable annotation paths. The overlay stays aligned with the image as you pan, zoom, rotate, and flip. <a href="https://nlevick.github.io/osd-deckgl-prototype/">Demo</a>.
 </li>
-<!-- <li><a href="https://nlevick.github.io/stock-dashboard/"><b>Stock Dashboard</b></a> <em>(In progress)</em> — 
-Stock ticker candlestick chart, volume subplot, and crosshair tooltip. React, TypeScript, D3.  -->
-  <!-- localStorage caching strategy and SVG/Canvas tradeoff documented in <a href="https://github.com/nlevick/stock-dashboard/blob/main/docs/ARCHITECTURE.md">ARCHITECTURE.md</a>.  -->
-</li>
-  <li><a href="https://nlevick.github.io/portfolio"><b>2024 Portfolio Site</b></a> — Explore Next.js 14 App Router architecture, Tailwind with a water 
-animation landing page. Project managed via 
-<a href="https://github.com/users/nlevick/projects/1/views/1">GitHub Projects</a>.</li>
+<li><a href="https://github.com/nlevick/stock-dashboard"><b>Stock Dashboard</b></a> —
+  Responsive React and TypeScript dashboard for exploring daily and weekly prices for tickers. Inspect D3/SVG charts with a mouse, touch, or keyboard. <a href="https://nlevick.github.io/stock-dashboard/">Demo</a>.
 </ul>
 
 <h3>Contact</h3>
